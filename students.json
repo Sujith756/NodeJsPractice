@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name":"sujith",
+        "course":"nodejs"
+    },
+     {
+        "id":2,
+        "name":"harish",
+        "course":"reactjs"
+    },
+     {
+        "id":3,
+        "name":"abhilash",
+        "course":"java"
+    },
+     {
+        "id":4,
+        "name":"pavan",
+        "course":"python"
+    },
+     {
+        "id":5,
+        "name":"mahesh",
+        "course":"nodejs"
+    }
+]
